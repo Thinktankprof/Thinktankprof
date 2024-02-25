@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thinktankprof
 - 👀 I’m interested in delevoping applications
-- 🌱 I’m currently learning Blockchain Dev. technology
+- 🌱 An Enthusiast of Data Science, Blockchain Dev. technology
 - 💞️ I’m looking to collaborate with others who share similar passion 
 - 📫 How to reach me on telegram @Emm_1234
 
